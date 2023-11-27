@@ -1,0 +1,9 @@
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\obj\Debug\TurtleCommandTest.csproj.AssemblyReference.cache
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\obj\Debug\TurtleCommandTest.csproj.CoreCompileInputs.cache
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\bin\Debug\TurtleCommand.dll
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\bin\Debug\TurtleCommand.pdb
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\bin\Debug\TurtleCommand.exe
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\bin\Debug\TurtleCommand.exe.config
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\obj\Debug\TurtleCommandTest.csproj.CopyComplete
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\obj\Debug\TurtleCommand.dll
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommandTest\obj\Debug\TurtleCommand.pdb

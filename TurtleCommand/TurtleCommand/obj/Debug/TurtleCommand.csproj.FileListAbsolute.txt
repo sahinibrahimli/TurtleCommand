@@ -1,0 +1,8 @@
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\obj\Debug\TurtleCommand.csproj.AssemblyReference.cache
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\obj\Debug\TurtleCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\obj\Debug\TurtleCommand.csproj.CoreCompileInputs.cache
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\bin\Debug\TurtleCommand.exe.config
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\bin\Debug\TurtleCommand.exe
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\bin\Debug\TurtleCommand.pdb
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\obj\Debug\TurtleCommand.exe
+C:\Users\SHAHIN\Desktop\TurtleCommand\TurtleCommand\obj\Debug\TurtleCommand.pdb
